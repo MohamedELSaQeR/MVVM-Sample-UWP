@@ -10,13 +10,13 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>33fb8166-01e6-4e77-9821-0c21c650c442</PackageIdentityName>
     <PackageIdentityPublisher>CN=remon.kamel</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>345C10087A1FC8A5F833F17C5DEAC231135F32102401952069CD0716BB643BE0</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>F7F018934E8AED12052E98D08F5ABDDB930E8A29097681BDD90CF19D25219AFD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>33fb8166-01e6-4e77-9821-0c21c650c442_1.0.0.0_x86__xwr0w3m6z8xjc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>33fb8166-01e6-4e77-9821-0c21c650c442_xwr0w3m6z8xjc!App</RegisteredUserModeAppID>
     <RegisteredPackageID>33fb8166-01e6-4e77-9821-0c21c650c442</RegisteredPackageID>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-07-18T12:32:47.588</Modified>
+      <Modified>2016-11-02T13:08:11.860</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\MVVMDemo.exe">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\MVVMDemo.exe">
       <PackagePath>entrypoint\MVVMDemo.exe</PackagePath>
-      <Modified>2016-07-18T12:32:43.802</Modified>
+      <Modified>2016-11-02T13:08:11.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\saqer\.nuget\packages\CommonServiceLocator\1.3.0\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
@@ -468,59 +468,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T21:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-03-19T11:59:22.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\MVVMDemo.xr.xml">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\MVVMDemo.xr.xml">
       <PackagePath>MVVMDemo.xr.xml</PackagePath>
       <Modified>2016-03-19T13:00:29.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2016-07-14T22:04:47.923</Modified>
+      <Modified>2016-08-09T20:28:56.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-07-18T12:32:46.625</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-02T12:51:48.124</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saqer\Downloads\Compressed\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\Core\MVVMDemo.exe">
+    <AppxPackagedFile Include="C:\Users\saqer\Documents\GitHub\MVVM-Sample-UWP\MVVM\Demo\MVVMDemo\MVVMDemo\bin\x86\Debug\Core\MVVMDemo.exe">
       <PackagePath>MVVMDemo.exe</PackagePath>
-      <Modified>2016-07-18T12:32:47.580</Modified>
+      <Modified>2016-11-02T13:08:11.844</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
